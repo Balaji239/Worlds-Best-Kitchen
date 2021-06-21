@@ -562,8 +562,9 @@ body {
   margin-top: 5px;
 }
 .bookNow-btn {
+   margin-top: 10px;
    width: 42%;
-   height: 2rem;
+   height: 2.4rem;
    border-radius: 2px;
 }
 .contactUs {
